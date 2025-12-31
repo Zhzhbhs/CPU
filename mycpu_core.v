@@ -1,6 +1,6 @@
 `include "lib/defines.vh"
 module mycpu_core(
-    input wire clk,
+    input wire clk, 
     input wire rst,
     input wire [5:0] int,
 
